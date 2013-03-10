@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash   
 echo "\n"
 echo "现在是"$(date '+%Y-%m-%d-%H:%M:%S')
 nowtime=$(date '+%Y-%m-%d-%H:%M:%S')
